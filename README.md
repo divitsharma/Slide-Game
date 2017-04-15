@@ -1,4 +1,4 @@
-# "Slide"
+# Slide
 ### An Android arcade game
 
 Check out the game on the Play Store!
