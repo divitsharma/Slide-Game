@@ -1,4 +1,4 @@
-# ![Slide Icon](Slide/Assets/Sprites/Slide_Icon.png "Slide Logo") Slide
+# ![Slide Icon](Slide/Assets/Sprites/Slide%20Icon.png "Slide Logo") Slide
 ### An Android arcade game
 
 Check out the game on the Play Store!
